@@ -22,7 +22,7 @@ This project is maintained by a team of 12 contributors, including developers, d
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](MIT) file for details.
+This project is licensed under the MIT License - see the [LICENSE][MIT](https://mit-license.org/) file for details.
 
 ---
 
